@@ -1,0 +1,13 @@
+models:
+  - name: Cat
+    attributes:
+      - name: name
+        type: string
+      - name: age
+        type: integer
+  - name: Dog
+    attributes:
+      - name: name
+        type: string
+      - name: age
+        type: integer
