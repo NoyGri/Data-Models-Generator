@@ -20,3 +20,4 @@ TBD
     * Used [TekWizely/pre-commit-golang](https://github.com/TekWizely/pre-commit-golang) for golang formatting and
       linting.
     * Use [Yelp/detect-secrets](https://github.com/Yelp/detect-secrets) for detecting secrets in the project.
+* [Goenv](https://github.com/go-nv/goenv) for managing go versions.
