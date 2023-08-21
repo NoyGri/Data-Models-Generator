@@ -6,8 +6,7 @@ trap './e2e_test/cleaner.sh' EXIT
 
 # Build the CLI
 
-go build -o dmgen ./dmgen
-go install ./dmgen
+go install ./cmd/dmgen
 
 # Run the tests
 
